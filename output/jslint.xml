@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jslint>
+	<file name="src/foo.js">
+		<issue line="10" char="6" reason="Missing semicolon." evidence="    }" />
+	</file>
+</jslint>
